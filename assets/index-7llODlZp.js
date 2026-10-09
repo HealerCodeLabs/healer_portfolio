@@ -60844,8 +60844,8 @@ var XD = (e, t) => {
     );
   },
   $D = `badrmoonlight2@gmail.com`,
-  eO = `https://wa.me/14642816015`,
-  tO = `https://t.me/Healer041911`,
+  eO = `https://wa.me/905016363759`,
+  tO = `https://t.me/Healer052811`,
   rO = `https://github.com/HealerCodeLabs`,
   iO = [`Senior Software Engineer`, `Reverse Engineer`],
   aO = 700,
